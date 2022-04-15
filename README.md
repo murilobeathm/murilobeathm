@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @murilobeathm 👋  Welcome to my Github profile.
+- 👋 Hi, I’m Murilo Beathm 👋  Welcome to my Github profile.
 - 👀 Right now I'm going to share with you some simple projects focused on the back-end. Where I will put into practice 
       what I learned in my course at Rumos, where I have already finished the first part, JAVASE;
 - 🌱 I’m currently learning Java programming; 
