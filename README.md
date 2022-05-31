@@ -1,23 +1,22 @@
 - ## Hi, I’m Murilo Beathm 👋 
 - 😎 Welcome to my Github profile.
-- 👀 Right now I'm going to share with you some simple projects focused on the back-end. Where I will put into practice 
-      what I learned in my course at Rumos, where I have already finished the first part, JAVASE;
-- 👨‍💻 I’m currently learning Java programming; 
-- 😤 I’m looking to collaborate on back-end projects;
-- 😄 Soon I will also do front-end projects;
+- 👨‍💻 Programming student; 
+- 👀 Right now, I will share with you some simple projects. Where I will put into practice what I have been learning in my academic journey;
+- 😤 I am looking to collaborate on back-end projects using the Java language and on front-end projects using the JavaScript language and the HTML5 and CSS3 markup            languages;
 - 📫 How to reach me? - https://www.linkedin.com/in/murilo-beathm-88601b214
 
 <div align="center">
   <a href="https://github.com/murilobeathm">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murilobeathm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobeathm&layout=compact&langs_count=7&theme=dark"/>
-       
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobeathm&layout=compact&langs_count=7&theme=dark"/>     
 </div>
    
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-J" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Murilo-MS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-          
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+  <img align="center" alt="Murilo-MS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />       
 </div>
 
  ##   
