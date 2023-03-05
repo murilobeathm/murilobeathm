@@ -1,9 +1,10 @@
 - ## Hi, I’m Murilo Beathm 👋 
 - 😎 Welcome to my Github profile.
 - 👨‍💻 Junior Java Developer; 
-- 👀 Here I make available the source code of my projects, to serve as a portfolio for my journey in search of my first job as a java developer.;
-- 😤 I am looking to collaborate on back-end projects using the Java language and on front-end projects using the JavaScript, HTML5 and CSS3;
+- 👀 Here I make available the source code of my projects, to serve as a portfolio for my journey in search of my first job as a developer.;
+- 😤 I am looking to collaborate on back-end projects using the Java language and on front-end projects;
 - 📫 How to reach me? - https://www.linkedin.com/in/murilo-beathm-88601b214
+-                       credly.com/users/murilo-beathm
 
 <div align="center">
   <a href="https://github.com/murilobeathm">
