@@ -1,6 +1,7 @@
 - ## Hi, I’m Murilo Beathm 👋 
 - 😎 Welcome to my Github profile.
-- 👨‍💻 Software Tester; 
+- 👨‍💻 Software Tester;
+- 👨‍💻 Systems Analysis & Development - Technology degree course (Student)
 - 👀 This is my "little corner", I like to share my codes and everything I learn.;
 - 📫 How to reach me? - https://www.linkedin.com/in/murilo-beathm-88601b214
 - 📫 Badges- https://www.credly.com/users/murilo-beathm                   
