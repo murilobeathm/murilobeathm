@@ -1,7 +1,7 @@
 - ## Hi, I’m Murilo Beathm 👋 
 - 😎 Welcome to my Github profile.
 - 👨‍💻 Software Tester; 
-- 👀 This is my "little corner", where I like to share my codes and everything I learn.;
+- 👀 This is my "little corner", I like to share my codes and everything I learn.;
 - 📫 How to reach me? - https://www.linkedin.com/in/murilo-beathm-88601b214
 - 📫 Badges- https://www.credly.com/users/murilo-beathm                   
 
